@@ -1,1 +1,1 @@
-My realziation of ant colony optimization algorithm.
+My realization of ant colony optimization algorithm.
